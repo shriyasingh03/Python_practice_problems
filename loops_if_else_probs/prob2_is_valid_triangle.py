@@ -1,7 +1,7 @@
 # Problem 2: Write a program that take a user input of three angles and will find out whether it can form a triangle or not.
 
 
-## Initial versio:
+## Initial version:
  #ask 2 angles to enter form user
 angle1 = float(input("enter angle1: "))
 angle2 = float(input("enter angle2: "))
